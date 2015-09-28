@@ -1,0 +1,9 @@
+$('nav ul li').toggle(function() {
+    $('nav ul li > ul').css({
+        	display: block;
+    });
+},function() {
+    $('nav ul li > ul').css({
+        	display: none;
+    });
+});
