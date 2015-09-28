@@ -38,7 +38,7 @@ nav ul li a {
 nav ul ul {
   border-radius: 0px;
   padding: 0;
-	position: absolute;
+  position: absolute;
   top: 100%;
 }
 nav ul ul li {
@@ -59,6 +59,6 @@ nav ul ul ul {
 /* END NAV BAR */
 .header {
   height: 50px;
-	padding: 50px 50px 50px 50px;
+  padding: 50px 50px 50px 50px;
   text-align: left;
 }
