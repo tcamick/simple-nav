@@ -12,8 +12,13 @@ a:active { color:black;}
 
 /* NAV BAR */
 nav {
+<<<<<<< HEAD
     margin-left: 100px;
     text-align: left;
+=======
+  margin-left: 100px;
+ text-align: left;
+>>>>>>> 360b7ce04c7e2fa94b7127325becf8e11a5d9c6e
 }
 
 nav ul ul {
@@ -36,10 +41,17 @@ nav ul li a {
 }
 
 nav ul ul {
+<<<<<<< HEAD
     border-radius: 0px;
     padding: 0;
     position: absolute;
     top: 100%;
+=======
+  border-radius: 0px;
+  padding: 0;
+  position: absolute;
+  top: 100%;
+>>>>>>> 360b7ce04c7e2fa94b7127325becf8e11a5d9c6e
 }
 nav ul ul li {
     float: none;
@@ -58,7 +70,13 @@ nav ul ul ul {
 }
 /* END NAV BAR */
 .header {
+<<<<<<< HEAD
     height: 50px;
     padding: 50px 50px 50px 50px;
     text-align: left;
+=======
+  height: 50px;
+  padding: 50px 50px 50px 50px;
+  text-align: left;
+>>>>>>> 360b7ce04c7e2fa94b7127325becf8e11a5d9c6e
 }
