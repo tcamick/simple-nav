@@ -1,8 +1,8 @@
 
 /*
-Author: Cole Amick
-Date: 20150927
-*/
+  Author: Cole Amick
+  Date: 20150927
+  */
 
 a { text-decoration: none;}
 a:link { color:black;}
@@ -12,53 +12,53 @@ a:active { color:black;}
 
 /* NAV BAR */
 nav {
-  margin-left: 100px;
-	text-align: left;
+    margin-left: 100px;
+    text-align: left;
 }
 
 nav ul ul {
-	display: none;
+    display: none;
 }
 
 nav ul {
-	border-radius: 10px;
-	list-style: none;
-	position: relative;
-	display: inline-block;
+    border-radius: 10px;
+    list-style: none;
+    position: relative;
+    display: inline-block;
 }
 
 nav ul li {
-	float: left;
+    float: left;
 }
 nav ul li a {
-  padding: 1px 10px;
-  position:relative;
+    padding: 1px 10px;
+    position:relative;
 }
 
 nav ul ul {
-  border-radius: 0px;
-  padding: 0;
-	position: absolute;
-  top: 100%;
+    border-radius: 0px;
+    padding: 0;
+    position: absolute;
+    top: 100%;
 }
 nav ul ul li {
-	float: none;
-  position: relative;
+    float: none;
+    position: relative;
 }
 nav ul ul li a {
- margin-left: 25px;
- padding: 1px 10px;
- position:relative;
+    margin-left: 25px;
+    padding: 1px 10px;
+    position:relative;
 }
 
 nav ul ul ul {
-  margin-left: 25px;
-  padding: 1px 10px;
-  position:relative;
+    margin-left: 25px;
+    padding: 1px 10px;
+    position:relative;
 }
 /* END NAV BAR */
 .header {
-  height: 50px;
-	padding: 50px 50px 50px 50px;
-  text-align: left;
+    height: 50px;
+    padding: 50px 50px 50px 50px;
+    text-align: left;
 }
